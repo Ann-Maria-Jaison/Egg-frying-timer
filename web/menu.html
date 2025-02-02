@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+    </header>
+    <section class="container">
+        <h1>Select what do you want to cook:</h1>
+        <div class="images-container">
+            <div class="image-item">
+                <img src="boiled-egg.png" alt="Boiled Egg">
+                <label>
+                    <input type="radio" name="option" value="timer.html" onclick="redirect(this.value)"> Boiled Egg
+                </label>
+            </div>
+            <div class="image-item">
+                <img src="egg-fry.png" alt="Egg Fry">
+                <label>
+                    <input type="radio" name="option" value="timer.html" onclick="redirect(this.value)"> Egg Fry
+                </label>
+            </div>
+        </div>
+        <script>
+            function redirect(url) {
+                window.location.href = url;
+            }
+        </script>
+    </section>
+    <footer>
+        <br>
+        &copy; Made with love <3
+    </footer>
+</body>
+</html>
