@@ -26,9 +26,6 @@ The Egg Timer Web App is a simple countdown timer designed to help users cook th
    - A message appears: *"Check your egg baby!"*
    - The "Breakfast Eating" GIF is displayed.
 
-## 📷 Screenshot
-![Egg Timer](images/screenshot.png) *(Add a screenshot of your project here)*
-
 ## 🏆 Future Improvements
 - Add a **start/pause/reset** button for more control.
 - Allow users to **set custom timer durations**.
