@@ -34,6 +34,3 @@ The Egg Timer Web App is a simple countdown timer designed to help users cook th
 ## 🎉 Contributing
 Feel free to fork this project, improve it, and submit a pull request!
 
-## 📩 Contact
-If you have any questions or suggestions, feel free to reach out. Happy coding! 😊
-
