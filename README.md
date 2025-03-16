@@ -23,7 +23,7 @@ The Egg Timer Web App is a simple countdown timer designed to help users cook th
 1. The timer starts automatically when the page loads.
 2. The countdown updates every 10 milliseconds.
 3. When the timer reaches zero:
-   - A message appears: *"Check your egg baby!"*
+   - A message appears: *"Check your egg!"*
    - The "Breakfast Eating" GIF is displayed.
 
 ## 🏆 Future Improvements
